@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb3db4b1-c2f3-4be5-96e0-249c1e876b26": {
+      "ProjectGuid": "eb3db4b1-c2f3-4be5-96e0-249c1e876b26",
+      "DisplayName": "Task1-Patterns",
+      "ColorIndex": 0
+    },
+    "e8d4cdac-cfb1-42cf-bfc6-b9265db01b29": {
+      "ProjectGuid": "e8d4cdac-cfb1-42cf-bfc6-b9265db01b29",
+      "DisplayName": "MyMethod",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
