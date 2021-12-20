@@ -11,13 +11,13 @@ namespace MyMethod
                 case "programmer":
                     return ProgrammerFactory.CreateEmployee(type, name);
                 case "hr-manager":
-                    return ProgrammerFactory.CreateEmployee(type, name);
+                    return Hr_managerFactory.CreateEmployee(type, name);
                 case "qa-engineer":
-                    return ProgrammerFactory.CreateEmployee(type, name);
+                    return Qa_engineerFactory.CreateEmployee(type, name);
                 case "data-scientist":
-                    return ProgrammerFactory.CreateEmployee(type, name);
+                    return Data_scientistFactory.CreateEmployee(type, name);
                 case "business-analyst":
-                    return ProgrammerFactory.CreateEmployee(type, name);
+                    return Business_analystFactory.CreateEmployee(type, name);
             }
             return "\nError: The type of employee is incorrect!\n\nPlease, choose another type:\nprogrammer\nhr-manager\nqa-engineer\ndata-scientist\nbusiness analyst\n";
         }

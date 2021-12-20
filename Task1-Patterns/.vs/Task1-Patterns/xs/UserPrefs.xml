@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{EB3DB4B1-C2F3-4BE5-96E0-249C1E876B26}|Default">
+  <MonoDevelop.Ide.ItemProperties.Task1-Patterns PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Task1-Patterns/Program.cs">
+    <Files>
+      <File FileName="Task1-Patterns/Program.cs" Line="20" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Task1-Patterns" expanded="True">
+            <Node name="MyMethod" expanded="True">
+              <Node name="Factories" expanded="True" />
+            </Node>
+            <Node name="Task1-Patterns" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
