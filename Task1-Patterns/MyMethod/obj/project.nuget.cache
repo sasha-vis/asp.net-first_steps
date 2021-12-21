@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JIUxIpdn7EeaRrYYKEm0dHie3m9zUbHvEXTsm1CNlIMumPeKQHZtiFQiRHLFyI8qQY7CoqICb0Luc9wlGnglaA==",
+  "dgSpecHash": "k2XAEtiG2/YpfOEkSP3Ynl9rpLjxMcE7D6U5u/B95Yb2CLskiiM42EImP4vDKo8Ku8dMDks1GOunKS/gK5c1Iw==",
   "success": true,
-  "projectFilePath": "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/MyMethod/MyMethod.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\MyMethod\\MyMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

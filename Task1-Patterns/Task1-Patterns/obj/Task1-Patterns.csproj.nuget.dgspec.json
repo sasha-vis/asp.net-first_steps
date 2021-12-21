@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/Task1-Patterns/Task1-Patterns.csproj": {}
+    "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\Task1-Patterns\\Task1-Patterns.csproj": {}
   },
   "projects": {
-    "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/MyMethod/MyMethod.csproj": {
+    "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\MyMethod\\MyMethod.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/MyMethod/MyMethod.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\MyMethod\\MyMethod.csproj",
         "projectName": "MyMethod",
-        "projectPath": "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/MyMethod/MyMethod.csproj",
-        "packagesPath": "/Users/alex.vysocki/.nuget/packages/",
-        "outputPath": "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/MyMethod/obj/",
+        "projectPath": "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\MyMethod\\MyMethod.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\MyMethod\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alex.vysocki/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,34 +54,36 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/Task1-Patterns/Task1-Patterns.csproj": {
+    "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\Task1-Patterns\\Task1-Patterns.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/Task1-Patterns/Task1-Patterns.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\Task1-Patterns\\Task1-Patterns.csproj",
         "projectName": "Task1-Patterns",
-        "projectPath": "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/Task1-Patterns/Task1-Patterns.csproj",
-        "packagesPath": "/Users/alex.vysocki/.nuget/packages/",
-        "outputPath": "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/Task1-Patterns/obj/",
+        "projectPath": "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\Task1-Patterns\\Task1-Patterns.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\Task1-Patterns\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/alex.vysocki/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/MyMethod/MyMethod.csproj": {
-                "projectPath": "/Users/alex.vysocki/Desktop/c#/aspnetfirststeps/Task1-Patterns/MyMethod/MyMethod.csproj"
+              "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\MyMethod\\MyMethod.csproj": {
+                "projectPath": "C:\\Users\\User\\Desktop\\Tasks\\aspnetfirststeps\\Task1-Patterns\\MyMethod\\MyMethod.csproj"
               }
             }
           }
@@ -108,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
